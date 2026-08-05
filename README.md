@@ -1,5 +1,5 @@
-# bank-customer-churn-analysis
-End-to-End Bank Customer Churn Analysis using SQL, Python, and Power BI.
+# End-to-End Bank Customer Churn Analysis
+An end-to-end Data Analytics project that analyze customer churn using SQL, python and Power BI to identify business insights and recommend customer rentention strategeies.
 
 ## Project workflow
 
