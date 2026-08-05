@@ -13,3 +13,9 @@ This project follows a complete end to end data anlytics workflow:
 6. Data Visualization using Matplotlib and Seaborn
 7. Dashboard Developement in Poer BI
 8. Business Insight and Recommendations
+
+## Project Overview
+
+Customer churn plays biggest challenge in the banking industry because retaining the existing customer is more cost effective than acquiring new ones.
+
+This project analyze customer data to identify the key factors that influence the customer churn. Using the SQL, Python and Power BI, the project transforms the raw data into meaningful insight and dashboards that supports the data driven business decisions.
