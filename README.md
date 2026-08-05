@@ -50,3 +50,20 @@ The dataset contains information about 10,000 bank customers, including demograp
  - Estimated Salary
  - Churn Status    
 
+
+## Tools and Technologies
+
+
+| Tool | Purpose |
+|----------|-------|
+| MySQL | Data Querying and Business Analysis |
+| Python | Data cleaning, EDA |
+| Pandas | Data Manipulation and Analysis |
+| Matplotlib | Data visualization |
+| Seaborn | Data visualization |
+| SQLAlchemy | Connecting MySqL into Jupyter Notebook |
+| Power BI | Building Interactive Dashboards and KPI |
+| Microsoft Word | Preparing the Project Report |
+| Microsoft PowerPoint | Creating Project Presentaion |
+| Git & GitHub | Version Control and project portfolio |
+
