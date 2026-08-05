@@ -31,3 +31,22 @@ This project analyze customer data to identify the key factors that influence th
 - Provide data-driven recommendations to reduce churn and increase customer lifetime value.
 - Build an interactive dashboard for business decision making
 
+
+## Dataset Information
+
+The dataset contains information about 10,000 bank customers, including demographic details, banking relationships and financial attributes. It is used to analyze the customer churn behavior and identify the factors that influence the customer retention.
+
+### Dataset features
+ - Customer ID
+ - Credit Score
+ - Country
+ - Gender
+ - Age
+ - Tenure
+ - Balance
+ - Number of Products
+ - Credit Card Status
+ - Active Member Status
+ - Estimated Salary
+ - Churn Status    
+
