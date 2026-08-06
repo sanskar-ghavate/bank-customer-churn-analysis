@@ -156,6 +156,8 @@ The analysis determined the several important business insights:
 
 ## Business Recommendations
 
+Based on the analysis followig recommendations are proposed.
+
 - Prioritize the retention efforts for high values customers with high churn risk.
 - Increase customer engagement through personalized offers and loyalty programs.
 - Encourage customers to adopt multiple banking products.
