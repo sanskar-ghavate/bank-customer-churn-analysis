@@ -169,31 +169,11 @@ Based on the analysis followig recommendations are proposed.
 
 ## 📁 Project Structure
 
-```text
-Bank-Customer-Churn-Analysis/
-│
-├── Dataset/
-│   └── Bank_Churn.csv
-│
-├── SQL/
-│   └── Bank_Customer_Churn_Analysis.sql
-│
-├── Python/
-│   └── Bank_Customer_Churn_Analysis.ipynb
-│
-├── Power BI/
-│   └── Bank_Customer_Churn_Dashboard.pbix
-│
-├── Report/
-│   └── Bank_Customer_Churn_Report.pdf
-│
-├── Presentation/
-│   └── Bank_Customer_Churn_Presentation.pdf
-│
-├── Images/
-│   ├── Dashboard_Overview.png
-│   ├── Customer_Analysis.png
-│   └── Financial_Analysis.png
-│
-└── README.md
-```
+The project is organized into the following components.
+
+- Dateset - Bank Customer Churn dataset used for analysis.
+- SQL - SQL Scripts for data exploration and business analysis.
+- Python - Jupyter notebook for data cleaning, EDA and visualization.
+- Power BI - Intractive dashboard for business Insights.
+- README.md - Project documentation and overview.
+- 
