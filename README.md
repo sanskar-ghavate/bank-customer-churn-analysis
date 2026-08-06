@@ -83,7 +83,7 @@ Python was used to perform the Exploratory Data Analysis (EDA), data cleaning, s
 - Customer churn analysis
 - Data visualization using Matplotlib and seaborn
 
-### python libraries used
+### Python libraries used
 
 - Pandas
 - Matplotlib
@@ -91,4 +91,17 @@ Python was used to perform the Exploratory Data Analysis (EDA), data cleaning, s
 - SQLAlchemy
 
 
+## Power BI Dashboard section
+
+An interactive dashboard was developed to transform the analytical findings into meaningful business insight. The dashoboard enables users to explore customer churn trends, customer demographics, financial performance and financial performance and customer segmentation through dynamic visualization and interactive filters.
+
+### Dashboard Features
+
+- Executive Summary
+- Customer Demographic Analysis
+- Customer Churn Analysis
+- Financial Performance Analysis
+- Customer Segmentation
+- Interactive Slicers & Filters
+- Key Performance Indicator (KPIs)
 
