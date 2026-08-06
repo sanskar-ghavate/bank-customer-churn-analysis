@@ -11,7 +11,7 @@ This project follows a complete end to end data anlytics workflow:
 4. Data Extraction using SQLAlchemy
 5. Exploratory Data Analysis (EDA) in python
 6. Data Visualization using Matplotlib and Seaborn
-7. Dashboard Developement in Poer BI
+7. Dashboard Developement in Power BI
 8. Business Insight and Recommendations
 
 ## Project Overview
@@ -67,6 +67,32 @@ The dataset contains information about 10,000 bank customers, including demograp
 | Microsoft PowerPoint | Creating Project Presentaion |
 | Git & GitHub | Version Control and project portfolio |
 
+## SQL Business Analysis
+
+SQL was used to perform comprehensive business analysis on the bank customer dataset by solving real world buiness problems. More than **30 Business Driven Analyses** were conducted to identify customer churn pattern, financial risks, customer segmentation opportunities and revenue growth strategies.
+
+### Key Analysis Areas
+
+- Customer Retention Prioritization
+- Customer Segmentation
+- Customer Risk Analysis
+- Financial Risk Analysis
+- Customer Churn and Retention Analysis
+- Customer Prioritization
+- Revenue Growth Opportunities
+- Exclusive Summary Reporting
+
+### SQL Concepts Used
+
+- CTEs
+- Views
+- Case Statements
+- Aggregate functions
+- Window Functions
+- Ranking Functions
+- Conditional Aggregation
+- GROUP BY & HAVING
+- Business KPI Calculations
 
 ## Python Analysis
 
