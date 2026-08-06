@@ -151,4 +151,14 @@ The analysis determined the several important business insights:
 - Inactive customers are more likely to leave the bank than active customers.
 - Customers with fewer banking products leads to high churn rates.
 - Credit score and account balance influenced the customer retention behavior.
-- Customer segmentation helped identify high value customers requiring retention strategies. 
+- Customer segmentation helped identify high value customers requiring retention strategies.
+
+
+## Business Recommendations
+
+- Prioritize the retention efforts for high values customers with high churn risk.
+- Increase customer engagement through personalized offers and loyalty programs.
+- Encourage customers to adopt multiple banking products.
+- Develop targeted retention campaigns for high risk customer segments.
+- Monitor Inactive Customers and implement proactive re-engagement strategies.
+- Use customer segmentation to personalize marketing and cross selling initiatives.
