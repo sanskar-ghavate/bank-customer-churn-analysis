@@ -67,3 +67,28 @@ The dataset contains information about 10,000 bank customers, including demograp
 | Microsoft PowerPoint | Creating Project Presentaion |
 | Git & GitHub | Version Control and project portfolio |
 
+
+## Python Analysis
+
+Python was used to perform the Exploratory Data Analysis (EDA), data cleaning, statistical analysis and data visualization. The analysis transformed raw customer data into meaningful insight, helping idnetify customer bahavior, churn patterns and business opportunities.
+
+### Key Analysis Areas
+
+- Data loading from MySQL using SQLAlchemy
+- Data cleaning and processing
+- Exploratory Data Analysis (EDA)
+- Descriptive statistical analysis
+- Customer demographic analysis
+- Financial behavior analysis
+- Customer churn analysis
+- Data visualization using Matplotlib and seaborn
+
+### python libraries used
+
+- Pandas
+- Matplotlib
+- Seaborn
+- SQLAlchemy
+
+
+
