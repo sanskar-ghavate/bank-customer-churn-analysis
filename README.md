@@ -1,6 +1,16 @@
 # End-to-End Bank Customer Churn Analysis
 An end-to-end Data Analytics project that analyze customer churn using SQL, python and Power BI to identify business insights and recommend customer rentention strategeies.
 
+
+## Project Highlights
+
+- Analyzed **10,000 bank customer records** to identify customer churn patterns.
+- Solved **30+ real world business problems** using MySQL.
+- Performed data cleaning, EDA and visualization using Python.
+- Build interactive Power BI dashboard for business decision making.
+- Identified customer retention opportunities through segmentation and risk analysis.
+- Delivered buinsess insights and strategic recommendations.
+
 ## Project workflow
 
 This project follows a complete end to end data anlytics workflow:
