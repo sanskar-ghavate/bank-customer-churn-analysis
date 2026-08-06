@@ -164,3 +164,36 @@ Based on the analysis followig recommendations are proposed.
 - Develop targeted retention campaigns for high risk customer segments.
 - Monitor Inactive Customers and implement proactive re-engagement strategies.
 - Use customer segmentation to personalize marketing and cross selling initiatives.
+
+---
+
+## 📁 Project Structure
+
+```text
+Bank-Customer-Churn-Analysis/
+│
+├── Dataset/
+│   └── Bank_Churn.csv
+│
+├── SQL/
+│   └── Bank_Customer_Churn_Analysis.sql
+│
+├── Python/
+│   └── Bank_Customer_Churn_Analysis.ipynb
+│
+├── Power BI/
+│   └── Bank_Customer_Churn_Dashboard.pbix
+│
+├── Report/
+│   └── Bank_Customer_Churn_Report.pdf
+│
+├── Presentation/
+│   └── Bank_Customer_Churn_Presentation.pdf
+│
+├── Images/
+│   ├── Dashboard_Overview.png
+│   ├── Customer_Analysis.png
+│   └── Financial_Analysis.png
+│
+└── README.md
+```
