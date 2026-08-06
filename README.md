@@ -141,3 +141,14 @@ An interactive dashboard was developed to transform the analytical findings into
 - Interactive Slicers & Filters
 - Key Performance Indicator (KPIs)
 
+
+## Business Insights
+
+The analysis determined the several important business insights:
+
+- High balance customers with low engagement shows a high probability of churn.
+- Middle aged customers contributed significantly to overall churn rate.
+- Inactive customers are more likely to leave the bank than active customers.
+- Customers with fewer banking products leads to high churn rates.
+- Credit score and account balance influenced the customer retention behavior.
+- Customer segmentation helped identify high value customers requiring retention strategies. 
